@@ -25,7 +25,7 @@
 #Bárbara: https://github.com/BarbaraMAlmeida/
 #Alice: 
 #Natalie: 
-#Sérgio:
+#Sérgio:https://github.com/Coastony
 #Elizeu:
 #Izabella:
 
