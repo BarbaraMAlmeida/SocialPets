@@ -23,10 +23,16 @@ todos os animais que estão na lista de doação e também aqueles que foram per
 
 
 #Linkedin dos integrantes:
+
 #Bárbara: https://github.com/BarbaraMAlmeida/
+
 #Alice: 
+
 #Natalie: https://github.com/AbreuNati
+
 #Sérgio:https://github.com/Coastony
+
 #Elizeu:
+
 #Izabella:
 
